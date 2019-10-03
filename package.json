@@ -1,0 +1,33 @@
+{
+  "name": "rn-keyboard-sticky-view",
+  "version": "1.0.0",
+  "description": "Add Whatever You Want (TextInput, Buttons) Inside This Keyboard Sticky View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "keyboard-sticky-view",
+    "keyboard-sticky-accessory",
+    "keyboard-sticky-input",
+    "keyboard-avoiding-view",
+    "keyboard-avoiding-input",
+    "sticky",
+    "keyboard",
+    "accessory",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": "Jinsoo Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
