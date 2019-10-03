@@ -1,10 +1,14 @@
 {
   "name": "rn-keyboard-sticky-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add Whatever You Want (TextInput, Buttons) Inside This Keyboard Sticky View",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinsoo601/rn-keyboard-sticky-view.git"
   },
   "keywords": [
     "react",
@@ -24,9 +28,9 @@
   "author": "Jinsoo Lim",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jinsoo601/rn-keyboard-sticky-view/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jinsoo601/rn-keyboard-sticky-view#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.56.0"
   }
