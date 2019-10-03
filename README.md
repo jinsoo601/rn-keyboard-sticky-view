@@ -3,6 +3,7 @@
 This component accomplishes the desired outcome using `KeyboardAvoidingView` provided by `react-native`, without the complicated animation code.
 
 ## Preview
+![](https://media.giphy.com/media/YRz7xuPXTApJRKmaWM/giphy.gif)
 
 ## Installation
 
