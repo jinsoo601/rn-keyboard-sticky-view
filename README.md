@@ -1,6 +1,6 @@
 # rn-keyboard-sticky-view
 
-This component accomplishes the animation using `KeyboardAvoidingView` provided by `react-native`, without the complicated animation code.
+This component accomplishes the desired outcome using `KeyboardAvoidingView` provided by `react-native`, without the complicated animation code.
 
 ## Preview
 
