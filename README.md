@@ -1,5 +1,7 @@
 # rn-keyboard-sticky-view
 
+Add your own component inside this lightweight KeyboardStickyView, whether it be TextInput, Buttons, or who knows what! Supports both Android and iOS.
+
 This component accomplishes the desired outcome using `KeyboardAvoidingView` provided by `react-native`, without the complicated animation code.
 
 ## Preview
