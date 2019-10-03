@@ -1,5 +1,9 @@
 # rn-keyboard-sticky-view
 
+This component accomplishes the animation using `KeyboardAvoidingView` provided by `react-native`, without the complicated animation code.
+
+## Preview
+
 ## Installation
 
 ```
@@ -41,6 +45,12 @@ const styles = StyleSheet.create({
 
 export default KeyboardInput;
 ```
+
+## Props
+| Props    | Type   | Description                                                | Default  |
+| -------- | ------ | ---------------------------------------------------------- | -------- |
+| style    | object | Style of the KeyboardStickyView (background, border, etc.) | {}       |
+| children | node   | Content of the KeyboardStickyView                          | null     |
 
 ## Give me a Star
 If you think this project is helpful just give me a ⭐️ :D
