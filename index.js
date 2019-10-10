@@ -20,11 +20,12 @@ const getVerticalOffset = () => Platform.select({
   android: 0
 });
 
-const KeyboardStickyView = ({ style, children }) => (
+const KeyboardStickyView = ({ style, children, ...other }) => (
   <KeyboardAvoidingView
     style={[styles.container, style]}
     behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
     keyboardVerticalOffset={getVerticalOffset()}
+    {...other} // can receive other view props
   >
     {children}
   </KeyboardAvoidingView>
