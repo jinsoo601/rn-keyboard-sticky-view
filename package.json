@@ -1,6 +1,6 @@
 {
   "name": "rn-keyboard-sticky-view",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add Whatever You Want (TextInput, Buttons) Inside This Keyboard Sticky View",
   "main": "index.js",
   "scripts": {
